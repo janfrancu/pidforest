@@ -8,3 +8,6 @@ The [accompanying paper](https://arxiv.org/abs/1912.03582) shows that PIDForest 
 The associated data files in .mat format are also attached. Many of these datasets have additional citation requests if they are useful in your research.
 
 The current implementation is in Python, we are working on releasing a much faster C++ based implementation soon.
+
+# 4th Sep 2020: janfrancu
+I have made some necessary changes in order to convert pidforest into an installable python module.
