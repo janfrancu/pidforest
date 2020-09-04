@@ -1,6 +1,6 @@
 import copy
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from py.hg import Histogram
 
 

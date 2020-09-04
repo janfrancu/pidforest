@@ -1,6 +1,6 @@
 """Some helper functions to create a time series, inject anomalies, shingle it and print it"""
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 def create_period(p_length):

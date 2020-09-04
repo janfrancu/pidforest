@@ -2,8 +2,8 @@ import copy
 from typing import List
 import numpy as np
 from numpy.core import ndarray
-from scripts.hg import Histogram
-import matplotlib.pyplot as plt
+from .hg import Histogram
+# import matplotlib.pyplot as plt
 
 to_print = False
 

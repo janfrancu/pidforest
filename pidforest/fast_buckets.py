@@ -1,6 +1,6 @@
 import numpy as np
 import math
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 # computes the summed squared error of locations i,i+1,...,j
